@@ -4,7 +4,7 @@
 
 ### Build With
 - JavaScript
-- Sass
+- Scss
 - Css
 - Dark interface.
 - With animations when scrolling.
