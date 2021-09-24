@@ -1,4 +1,4 @@
-# Beats Landing Site Responsive
+# Responsive Beats Landing Site
 
 ### 🚀 See The Live Site: [Beats Site](https://aldothedev.github.io/Beats-Site/)
 
