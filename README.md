@@ -1,4 +1,4 @@
-# Responsive Landing Beats Headphones 🎧
+# Beats Landing Site Responsive
 
 ### 🚀 See The Live Site: [Beats Site](https://aldothedev.github.io/Beats-Site/)
 
